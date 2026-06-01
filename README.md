@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+xeesoxee.+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!;Code+%7C+Create+%7C+Explore)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+EvanSibara+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!;Code+%7C+Create+%7C+Explore)](https://git.io/typing-svg)
 
 </div>
 
