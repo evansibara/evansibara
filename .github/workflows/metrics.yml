@@ -40,7 +40,7 @@ jobs:
           plugin_languages_categories: markup, programming
           plugin_pagespeed: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          plugin_pagespeed_url: https://portofolio-evan.netlify.app/
+          plugin_pagespeed_url: https://evansibara.netlify.app/
           plugin_pagespeed_detailed: yes
           plugin_topics: yes
           plugin_topics_sort: stars
