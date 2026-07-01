@@ -48,25 +48,6 @@ Fullstack Developer with hands-on experience building web and mobile application
 
 ---
 
-### Featured Projects
-
-- **OmniSpace — B2B Workspace & Multi-Tenant Client Portal**
-  Full-stack platform (React 19 & NestJS 10) with RBAC, tenant-level data isolation, React Query + Zustand, BullMQ + Redis job queues, PostgreSQL (Prisma ORM), fully Dockerized with CI/CD via GitHub Actions to GHCR.
-
-- **Enterprise EPMS — Employee Performance Management System**
-  Full-stack app (React + ASP.NET Core Web API) with Clean Architecture, JWT auth, Entity Framework Core, PostgreSQL, Redis, and Docker/GitHub Actions CI/CD.
-
-- **Mobile E-Government App**
-  Cross-platform Flutter & Dart app with a Supabase (PostgreSQL) real-time backend, OAuth authentication, and Material Design 3 UI.
-
-- **Enterprise Web Admin Dashboard**
-  React.js + Tailwind CSS admin dashboard with full CRUD operations integrated with Supabase (PostgreSQL).
-
-- **Sistem Order Kantin — Canteen POS Desktop App**
-  C# WinForms POS system with SQL Server, ADO.NET + SQL Transactions for checkout integrity, LINQ-powered reporting, Supabase Storage for product images, and Crystal Reports for sales reports.
-
----
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
