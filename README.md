@@ -6,21 +6,20 @@
 
 ---
 
-### 👋 About Me
+### About Me
 
 Fullstack Developer with hands-on experience building web and mobile applications using **React, Next.js, Flutter, Python, and C#/.NET**. I enjoy building data-driven systems with REST API integrations and modern cloud databases. Currently pursuing a **Bachelor's degree in Information Systems** at Universitas Multimedia Nusantara.
 
-- 🎓 Information Systems student at Universitas Multimedia Nusantara (2022 – Present)
-- 💻 Currently working as a Mobile Application Developer for DPMPTSP Kabupaten Tangerang
-- 🌱 Interested in Clean Architecture, microservices, and system design
-- 📫 Reach me at **evan.sibara888@gmail.com**
-- 📍 Based in Kab. Tangerang, Banten, Indonesia
+- Information Systems student at Universitas Multimedia Nusantara (2022 – Present)
+- Currently working as a Mobile Application Developer for DPMPTSP Kabupaten Tangerang
+- Interested in Clean Architecture, microservices, and system design
+- Reach me at **evan.sibara888@gmail.com**
+- Based in Kab. Tangerang, Banten, Indonesia
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
-**Front End**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -29,8 +28,6 @@ Fullstack Developer with hands-on experience building web and mobile application
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-**Back End**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -38,15 +35,11 @@ Fullstack Developer with hands-on experience building web and mobile application
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-**Database & Backend Services**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**Tools & DevOps**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -56,22 +49,7 @@ Fullstack Developer with hands-on experience building web and mobile application
 
 ---
 
-### 💼 Experience
-
-**Mobile Application Developer (Based on Project)**
-*Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu (DPMPTSP) Kabupaten Tangerang* — Mar 2026 – Apr 2026
-- Built a Flutter mobile app for the DPMPTSP public service portal, owning the architecture end-to-end
-- Applied Clean Architecture with Repository Pattern, Dependency Injection, and GetX for state management
-- Integrated Supabase for backend/auth and consumed external REST APIs via Dio with Auth & Error interceptors
-
-**Front-End Developer (Internship)**
-*Dinas Komunikasi dan Informatika Kabupaten Tangerang* — Jul 2025 – Dec 2025
-- Built dynamic, responsive UI for the Tangerang Smart City website using React.js with component-based architecture
-- Implemented real-time API integrations to display public service data
-
----
-
-### 🚀 Featured Projects
+### Featured Projects
 
 - **OmniSpace — B2B Workspace & Multi-Tenant Client Portal**
   Full-stack platform (React 19 & NestJS 10) with RBAC, tenant-level data isolation, React Query + Zustand, BullMQ + Redis job queues, PostgreSQL (Prisma ORM), fully Dockerized with CI/CD via GitHub Actions to GHCR.
